@@ -13,7 +13,7 @@
   "investment_id": "", 
   "id": "8b2a157c-97cf-4865-8fcc-49ea2fb35782", 
   "metadata_created": "2020-07-03T08:46:00.528609", 
-  "metadata_modified": "2020-07-03T11:11:58.383565", 
+  "metadata_modified": "2020-07-03T11:12:02.052571", 
   "author": null, 
   "author_email": null, 
   "tags": [], 
@@ -89,7 +89,7 @@
       "datastore_active": false, 
       "id": "2198621c-3cc9-4fc5-bf66-6feddb5ebc06", 
       "size": 17944062, 
-      "metadata_modified": "2020-07-03T11:11:58.392067", 
+      "metadata_modified": "2020-07-03T11:12:02.060447", 
       "state": "active", 
       "sha256": "aa5b7adb882308f2d32ff34ce3a42788e7687cad86d1f860d062706ec4093f16", 
       "lfs_prefix": "uat-test-1/versioning-test", 
@@ -109,7 +109,7 @@
       "url": "https://dataexchange-pock.gatesfoundation.org/dataset/8b2a157c-97cf-4865-8fcc-49ea2fb35782/resource/2198621c-3cc9-4fc5-bf66-6feddb5ebc06/download/country_carbon_intensity.csv", 
       "last_modified": null, 
       "position": 2, 
-      "revision_id": "0598638f-330d-465b-b941-ec75b3b11f82", 
+      "revision_id": "20691e79-becb-49c1-93ce-4447b945e84d", 
       "resource_type": null
     }
   ], 
